@@ -2,7 +2,7 @@ import React from 'react'
 import { FaHtml5, FaCss3Alt, FaJs, FaBootstrap, FaReact, FaDatabase, FaGitAlt } from 'react-icons/fa'
 import { SiTailwindcss } from 'react-icons/si'
 
- const skills = [
+const skills1 = [
   { name: 'HTML5',        icon: <FaHtml5 />,       level: 'Expert',       color: 'text-orange-500' },
   { name: 'CSS3',         icon: <FaCss3Alt />,      level: 'Expert',       color: 'text-blue-500'   },
   { name: 'JavaScript',   icon: <FaJs />,           level: 'Intermediate', color: 'text-yellow-400' },
@@ -13,4 +13,4 @@ import { SiTailwindcss } from 'react-icons/si'
   { name: 'Git',          icon: <FaGitAlt />,       level: 'Basic',        color: 'text-orange-400' },
 ]
 
-export default skills;
+export default skills1

@@ -31,7 +31,7 @@ const Skills = () => {
       </div>
 
       <div className='relative z-10 max-w-5xl mx-auto grid grid-cols-2 sm:grid-cols-3 gap-5'>
-        {skills.map((skill) => (
+        {skills1.map((skill) => (
           <div
             key={skill.name}
             className='group flex flex-col items-center justify-center gap-3 p-6 rounded-2xl border border-gray-800 bg-white/5 backdrop-blur-sm hover:border-blue-500/50 hover:bg-white/10 transition-all duration-300 hover:-translate-y-1'
@@ -46,7 +46,6 @@ const Skills = () => {
           </div>
         ))}
       </div>
-
     </section>
   )
 }
