@@ -1,5 +1,5 @@
 import React from 'react'
-import { skills } from '../data/skills.jsx'
+import skills1 from '../Data/skills1.jsx'
 
 const levelColor = {
   Expert:       'bg-green-500/10 text-green-400 border-green-500/20',
