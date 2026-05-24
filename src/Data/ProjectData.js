@@ -1,0 +1,51 @@
+export const projectsData = [
+  {
+    name: 'Velocity Engineering',
+    desc: 'Corporate website for a precision fasteners & machined components manufacturer. Includes product showcase, gallery, and quote request form.',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
+    live: 'https://velocityengg.com',
+    type: 'Industrial / Corporate',
+  },
+  {
+    name: 'AnkDharra',
+    desc: "India's astrology & numerology platform for online predictions, horoscope readings, and connecting users with top astrologers.",
+    tags: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
+    live: 'https://ankdharra.com',
+    type: 'Astrology / Spiritual',
+  },
+  {
+    name: 'Saraswati Vidya Mandir Inter College',
+    desc: 'Institutional website for a school featuring academics, admissions, notices, and contact information.',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
+    live: 'https://svmic.org.in',
+    type: 'Education',
+  },
+  {
+    name: 'BillnBooks',
+    desc: 'GST-based billing management system for invoice generation and business data handling with responsive design.',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
+    live: 'https://billnbooks.in',
+    type: 'Billing / Finance',
+  },
+  {
+    name: 'MrGuide',
+    desc: 'B2B marketplace platform connecting buyers and sellers with structured UI for product listing and user interaction.',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
+    live: 'https://mrguide.in',
+    type: 'B2B Marketplace',
+  },
+  {
+    name: 'ICX Medentis',
+    desc: 'Healthcare website for dental care services with clean UI for service display, contact, and user interaction.',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
+    live: 'https://icxmedentis.com',
+    type: 'Healthcare',
+  },
+  {
+    name: 'ResqCabs',
+    desc: 'Ambulance booking platform with user-friendly UI for quick access to emergency services.',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
+    live: 'https://resqcabs.com',
+    type: 'Emergency Services',
+  },
+]
