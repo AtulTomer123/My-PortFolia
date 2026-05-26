@@ -52,11 +52,11 @@ const About = () => {
             </div>
             <div className='flex items-center gap-3 text-gray-500'>
               <FaEnvelope className='text-blue-500 flex-shrink-0' />
-              <span>atultomer@example.com</span>
+              <span>atultomer74@gmail.com</span>
             </div>
             <div className='flex items-center gap-3 text-gray-500'>
               <FaMapMarkerAlt className='text-blue-500 flex-shrink-0' />
-              <span>India</span>
+              <span>Pilkhuwa,Ghaizabad,U.P</span>
             </div>
           </div>
           <a
