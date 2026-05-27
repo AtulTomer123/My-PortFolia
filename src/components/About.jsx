@@ -43,9 +43,14 @@ const About = () => {
           {/* Info rows */}
           <div className='flex flex-col gap-3 mb-7'>
             <div className='flex items-center gap-3 text-gray-500'>
-              <FaBriefcase className='text-blue-500 flex-shrink-0' />
-              <span>Frontend Developer — Arrow Info System</span>
-            </div>
+  <FaBriefcase className='text-blue-500 flex-shrink-0' />
+  <span>
+    Frontend Developer — Arrow Info System
+    <span className='block text-sm text-gray-400'>
+      Aug 2025 - Present
+    </span>
+  </span>
+</div>
             <div className='flex items-center gap-3 text-gray-500'>
               <FaGraduationCap className='text-blue-500 flex-shrink-0' />
               <span>B.Tech — Completed</span>
